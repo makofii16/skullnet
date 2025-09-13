@@ -1,4 +1,4 @@
-# Lama Dev School Management Dashboard
+# skullnet 
 
 ## Getting Started
 
